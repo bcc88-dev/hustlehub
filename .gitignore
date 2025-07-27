@@ -1,0 +1,14 @@
+# Don't track files outside this directory
+*
+!.gitignore
+!README.md
+!*.js
+!*.ts
+!*.tsx
+!*.json
+!*.html
+!*.css
+!*.md
+!src/
+!public/
+!docs/
